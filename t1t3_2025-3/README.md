@@ -12,7 +12,7 @@ Ver archivo: [estudiantes.json](./estudiantes.json)
 
 | # | Tema | Estado | Carpeta |
 |---|------|--------|---------|
-| 1 | Estructuras de Decisión | 🟢 Activo | [estructuras-decision](./estructuras-decision/) |
+| 1 | Listas en Python | 🟢 Activo | [listas](./listas/) |
 | 2 | Próximamente... | ⚪ Pendiente | - |
 
 ## 📚 Cómo usar este espacio
@@ -39,21 +39,21 @@ Ver archivo: [estudiantes.json](./estudiantes.json)
 ### 1️⃣ Estudia el tema
 
 ```bash
-cd estructuras-decision/teoria/
+cd listas/teoria/
 # Lee los archivos en orden numérico
 ```
 
 ### 2️⃣ Practica con ejemplos
 
 ```bash
-cd estructuras-decision/teoria/ejemplos/
+cd listas/teoria/ejemplos/
 python ejemplo_basico.py
 ```
 
 ### 3️⃣ Resuelve ejercicios
 
 ```bash
-cd estructuras-decision/ejercicios/
+cd listas/ejercicios/
 # Lee los enunciados
 ```
 
@@ -70,13 +70,13 @@ cd estructuras-decision/ejercicios/
 
 ```
 t1t3_2025-3/
-└── estructuras-decision/
+└── listas/
     ├── teoria/              # 📚 Lee primero
     │   ├── 01_introduccion.md
-    │   ├── 02_if_else_elif.md
+    │   ├── 02_metodos_listas.md
     │   └── ejemplos/
     ├── ejercicios/          # 📝 Problemas a resolver
-    │   ├── 01_edad_valida.md
+    │   ├── 01_pizzeria.md
     │   └── plantilla_solucion.py
     └── soluciones/          # 💻 Tu carpeta aquí
         └── tu-usuario/
@@ -93,7 +93,7 @@ t1t3_2025-3/
 - Usar la plantilla proporcionada
 - Comentar tu código
 - Probar antes de subir
-- Seguir el formato de commits: `[T1T3][Tema] Descripción`
+- Seguir el formato de commits: `[T1T3][Listas] Descripción`
 
 ### ❌ NO debes:
 - Modificar archivos de `teoria/`
@@ -108,26 +108,26 @@ Lleva tu propio registro de ejercicios completados:
 
 | Tema | Ejercicios Totales | Completados | Porcentaje |
 |------|-------------------|-------------|------------|
-| Estructuras de Decisión | 20 | ? | ?% |
+| Listas | 21 | ? | ?% |
 
 ## 🆘 ¿Necesitas Ayuda?
 
 1. **Revisa la teoría** - A menudo la respuesta está ahí
 2. **Ejecuta los ejemplos** - Modifícalos para entender
-3. **Crea un Issue** - Formato: `[T1T3][Tema] Ayuda con ejercicio X`
+3. **Crea un Issue** - Formato: `[T1T3][Listas] Ayuda con ejercicio X`
 4. **Pregunta al profesor** - En clase o por Issue
 
 ## 📝 Plantilla para Issues
 
 ```markdown
-**Título:** [T1T3][Estructuras-Decision] Ayuda con ejercicio 5
+**Título:** [T1T3][Listas] Ayuda con ejercicio 5
 
 **Descripción:**
 ## Ejercicio
-Ejercicio 5: Elegir Deporte
+Ejercicio 5: El Mago de las Listas
 
 ## Mi duda
-No entiendo cómo usar múltiples condiciones elif
+No entiendo cómo usar pop() para guardar el elemento eliminado
 
 ## Lo que he intentado
 ```python
@@ -146,7 +146,7 @@ Para ver el progreso general:
 cat estudiantes.json | grep -c "github"
 
 # Estudiantes que entregaron en un tema
-ls -1 estructuras-decision/soluciones/ | wc -l
+ls -1 listas/soluciones/ | wc -l
 ```
 
 ## 📧 Contacto
@@ -159,4 +159,3 @@ ls -1 estructuras-decision/soluciones/ | wc -l
 ¡Mucho éxito en tu aprendizaje! 💪📚
 
 **Recuerda:** La práctica constante es la clave del éxito en programación.
-
