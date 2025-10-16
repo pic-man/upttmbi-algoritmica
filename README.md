@@ -135,6 +135,4 @@ Para dudas o problemas, crea un Issue en este repositorio especificando tu secci
 Este material es de uso exclusivo para estudiantes de la UPTTMBI.
 
 ---
-**Universidad Politécnica Territorial del Medio Bravo Iragorry**  
-Materia: Algorítmica | Trimestre: 2025-3
 
