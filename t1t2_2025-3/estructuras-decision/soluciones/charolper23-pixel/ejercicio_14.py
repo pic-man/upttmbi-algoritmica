@@ -1,6 +1,15 @@
 """
 Ejercicio 14: Distancia a Recorrer
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 01-11-2025
+
+Descripción:
 Sugiere el medio de transporte más apropiado según la distancia.
+
+Ejemplo de uso:
+Entrada: 15
+Salida: RECOMENDACION Ve en auto
 """
 
 # Solicitar la distancia

@@ -1,6 +1,15 @@
 """
 Ejercicio 19: Mezcla de Colores Primarios
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 01-11-2025
+
+Descripción:
 Determina el color resultante al mezclar dos colores primarios.
+
+Ejemplo de uso:
+Entrada: rojo, azul
+Salida: Rojo + Azul = Morado
 """
 
 print("=== MEZCLADOR DE COLORES PRIMARIOS ===\n")

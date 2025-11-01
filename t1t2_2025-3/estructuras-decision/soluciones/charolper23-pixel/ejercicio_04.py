@@ -1,6 +1,15 @@
 """
 Ejercicio 4: Número Positivo, Negativo o Cero
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 28-10-2025
+
+Descripción:
 Determina si un número es positivo, negativo o cero.
+
+Ejemplo de uso:
+Entrada: -5
+Salida: El número es negativo.
 """
 
 # Solicitar el número al usuario

@@ -1,6 +1,15 @@
 """
 Ejercicio 6: Turno de Trabajo
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 28-10-2025
+
+Descripción:
 Determina el turno de trabajo según la hora ingresada.
+
+Ejemplo de uso:
+Entrada: 23
+Salida: Turno nocturno
 """
 
 # Solicitar la hora al usuario

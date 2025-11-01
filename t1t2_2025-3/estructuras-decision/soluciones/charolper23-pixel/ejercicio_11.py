@@ -1,6 +1,15 @@
 """
 Ejercicio 11: Tamaño de Pizza
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 29-10-2025
+
+Descripción:
 Calcula el precio según el tamaño de pizza elegido.
+
+Ejemplo de uso:
+Entrada: chica
+Salida: Precio de la pizza chica $80
 """
 
 # Solicitar el tamaño de pizza al usuario

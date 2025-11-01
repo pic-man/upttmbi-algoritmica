@@ -1,6 +1,15 @@
 """
 Ejercicio 12: Multa de Biblioteca
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 01-11-2025
+
+Descripción:
 Calcula la multa por retraso en la devolución de un libro.
+
+Ejemplo de uso:
+Entrada: 5
+Salida: Multa a pagar: $25
 """
 
 # Solicitar los días de retraso

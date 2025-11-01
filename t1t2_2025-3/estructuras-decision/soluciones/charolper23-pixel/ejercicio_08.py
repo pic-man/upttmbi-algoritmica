@@ -1,6 +1,15 @@
 """
 Ejercicio 8: Fiebre o No
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 29-10-2025
+
+Descripción:
 Determina si una persona tiene fiebre, hipotermia o temperatura normal.
+
+Ejemplo de uso:
+Entrada: 35
+Salida: tienes hipotermia
 """
 
 # Solicitar la temperatura corporal al usuario

@@ -1,6 +1,15 @@
 """
 Ejercicio 16: Necesitas Paraguas
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 01-11-2025
+
+Descripción:
 Determina si se necesita un paraguas según la probabilidad de lluvia.
+
+Ejemplo de uso:
+Entrada: 70
+Salida: Lleva paraguas por si acaso
 """
 
 # Solicitar el porcentaje de probabilidad de lluvia

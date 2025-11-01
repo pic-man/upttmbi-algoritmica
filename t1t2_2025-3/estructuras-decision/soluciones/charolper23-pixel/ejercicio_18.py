@@ -1,6 +1,15 @@
 """
 Ejercicio 18: Rutina de Ejercicio
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 01-11-2025
+
+Descripción:
 Recomienda una rutina según el nivel de condición física.
+
+Ejemplo de uso:
+Entrada: intermedio
+Salida: RUTINA RECOMENDADA: 30 minutos de cardio + pesas
 """
 
 print("=== RECOMENDACIÓN DE RUTINA DE EJERCICIO ===\n")

@@ -1,6 +1,15 @@
 """
 Ejercicio 17: Streaming de Música
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 01-11-2025
+
+Descripción:
 Muestra características y precio según el plan de suscripción.
+
+Ejemplo de uso:
+Entrada: básico
+Salida: Música sin anuncios - $59/mes
 """
 
 print("=== PLANES DE STREAMING DE MÚSICA ===\n")

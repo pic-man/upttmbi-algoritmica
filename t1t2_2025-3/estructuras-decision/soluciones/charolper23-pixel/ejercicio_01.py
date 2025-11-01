@@ -1,8 +1,16 @@
 """
 Ejercicio 1: Edad Válida
-Verifica si una edad es válida y determina si es menor o mayor de edad.
-"""
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 28-10-2025
 
+Descripción:
+Verifica si una edad es válida y determina si es menor o mayor de edad.
+
+Ejemplo de uso:
+Entrada: 15
+Salida: Eres menor de edad
+"""
 # Solicitar la edad al usuario
 edad = int(input("Ingresa tu edad: "))
 

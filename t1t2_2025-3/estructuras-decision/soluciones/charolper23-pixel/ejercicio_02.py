@@ -1,6 +1,18 @@
 """
-Ejercicio 2: Precio con Descuento Simple
-Calcula el precio final de un producto aplicando descuento según el monto.
+Ejercicio 2: Precio con Descuento
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 28-10-2025
+
+Descripción:
+Calcula el precio final de un producto con descuento según su precio original.
+
+Ejemplo de uso:
+Entrada: 1000
+Salida: Precio original: $1000.00
+Descuento aplicado: 10%
+Precio final: $900.00
+
 """
 
 # Solicitar el precio del producto

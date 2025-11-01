@@ -1,6 +1,15 @@
 """
 Ejercicio 20: Menú del Día
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 01-11-2025
+
+Descripción:
 Muestra el platillo especial según el día de la semana.
+
+Ejemplo de uso:
+Entrada: lunes
+Salida: Platillo del día: Enchiladas verdes
 """
 
 print("=== RESTAURANTE YUDITH ===\n")

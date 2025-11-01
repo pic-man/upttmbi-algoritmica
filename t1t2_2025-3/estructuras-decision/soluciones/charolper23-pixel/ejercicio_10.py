@@ -1,6 +1,15 @@
 """
 Ejercicio 10: Login Simple
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 29-10-2025
+
+Descripción:
 Verifica las credenciales de usuario.
+
+Ejemplo de uso:
+Entrada: usuario123, contraseña456
+Salida: Contraseña incorrecta
 """
 
 # Definir credenciales correctas

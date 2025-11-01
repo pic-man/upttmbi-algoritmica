@@ -1,6 +1,15 @@
 """
 Ejercicio 13: Clasificación de Videojuego
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 01-11-2025
+
+Descripción:
 Determina la clasificación ESRB según la edad del jugador.
+
+Ejemplo de uso:
+Entrada: 12
+Salida: Clasificación recomendada: E (Everyone)
 """
 
 # Solicitar la edad del jugador

@@ -1,6 +1,15 @@
 """
 Ejercicio 15: Tipo de Tarjeta
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 01-11-2025
+
+Descripción:
 Muestra los beneficios asociados a cada tipo de tarjeta.
+
+Ejemplo de uso:
+Entrada: oro
+Salida: BENEFICIOS: 2% de cashback + seguro
 """
 
 print("=== BENEFICIOS DE TARJETA DE CRÉDITO ===\n")

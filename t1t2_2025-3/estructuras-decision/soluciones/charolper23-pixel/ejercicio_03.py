@@ -1,6 +1,16 @@
 """
 Ejercicio 3: Aprobado o Reprobado
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 28-10-2025
+
+Descripción:
 Determina si un estudiante aprobó o reprobó según su calificación.
+
+Ejemplo de uso:
+Entrada: 7
+Salida: Aprobado
+
 """
 
 # Solicitar la calificación al usuario

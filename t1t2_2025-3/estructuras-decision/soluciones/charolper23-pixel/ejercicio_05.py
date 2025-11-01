@@ -1,6 +1,15 @@
 """
 Ejercicio 5: Elegir Deporte
+Estudiante: Yudith Perdomo
+GitHub: @charolper23-pixel
+Fecha: 28-10-2025
+
+Descripción:
 Muestra un deporte según el número elegido por el usuario.
+
+Ejemplo de uso:
+Entrada: 1
+Salida: Fútbol
 """
 
 # Solicitar un número al usuario del 1 al 3
