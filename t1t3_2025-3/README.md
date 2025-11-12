@@ -13,7 +13,7 @@ Ver archivo: [estudiantes.json](./estudiantes.json)
 | # | Tema | Estado | Carpeta |
 |---|------|--------|---------|
 | 1 | Listas en Python | 🟢 Activo | [listas](./listas/) |
-| 2 | Próximamente... | ⚪ Pendiente | - |
+| 2 | Cadenas de caracteres | 🟢 Activo | [cadenas](./cadenas/) |
 
 ## 📚 Cómo usar este espacio
 
@@ -39,21 +39,24 @@ Ver archivo: [estudiantes.json](./estudiantes.json)
 ### 1️⃣ Estudia el tema
 
 ```bash
-cd listas/teoria/
+# Reemplaza <tema> por listas o cadenas
+cd <tema>/teoria/
 # Lee los archivos en orden numérico
 ```
 
 ### 2️⃣ Practica con ejemplos
 
 ```bash
-cd listas/teoria/ejemplos/
+# Reemplaza <tema> por listas o cadenas
+cd <tema>/teoria/ejemplos/
 python ejemplo_basico.py
 ```
 
 ### 3️⃣ Resuelve ejercicios
 
 ```bash
-cd listas/ejercicios/
+# Reemplaza <tema> por listas o cadenas
+cd <tema>/ejercicios/
 # Lee los enunciados
 ```
 
@@ -70,19 +73,25 @@ cd listas/ejercicios/
 
 ```
 t1t3_2025-3/
-└── listas/
-    ├── teoria/              # 📚 Lee primero
-    │   ├── 01_introduccion.md
-    │   ├── 02_metodos_listas.md
-    │   └── ejemplos/
-    ├── ejercicios/          # 📝 Problemas a resolver
-    │   ├── 01_pizzeria.md
-    │   └── plantilla_solucion.py
-    └── soluciones/          # 💻 Tu carpeta aquí
-        └── tu-usuario/
-            ├── info.json
-            ├── ejercicio_01.py
-            └── ...
+├── listas/
+│   ├── teoria/
+│   │   ├── 01_introduccion_listas.md
+│   │   ├── 02_metodos_listas.md
+│   │   └── ejemplos/
+│   ├── ejercicios/
+│   │   ├── 01_pizzeria.md
+│   │   └── plantilla_solucion.py
+│   └── soluciones/
+├── cadenas/
+│   ├── teoria/
+│   │   ├── 01_introduccion_cadenas.md
+│   │   ├── 02_metodos_cadenas.md
+│   │   └── ejemplos/
+│   ├── ejercicios/
+│   │   ├── 01_formato_identidad.md
+│   │   └── plantilla_solucion.py
+│   └── soluciones/
+└── ...
 ```
 
 ## ⚠️ Reglas Importantes
@@ -109,6 +118,7 @@ Lleva tu propio registro de ejercicios completados:
 | Tema | Ejercicios Totales | Completados | Porcentaje |
 |------|-------------------|-------------|------------|
 | Listas | 21 | ? | ?% |
+| Cadenas | 10 | ? | ?% |
 
 ## 🆘 ¿Necesitas Ayuda?
 
